@@ -39,6 +39,10 @@ jobs:
         with:
           node-version: '18'
           cache: 'npm'
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.125.4/hugo_extended_0.125.4_Linux-64bit.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -71,4 +75,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
-        
