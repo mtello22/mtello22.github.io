@@ -18,4 +18,4 @@ seo:
   noindex: false # false (default) or true
 ---
 
-would it do anything to the blog page to add this text?
+Here you can find my blog posts on different bioinformatic analyses I've performed.

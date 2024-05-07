@@ -2,8 +2,8 @@
 title: "Ortholog cell-type deconvolution"
 description: "Article to explain the logic and reasoning behind the method of ortholog-based cell-type deconvolution"
 summary: ""
-date: 2023-09-07T16:27:22+02:00
-lastmod: 2023-09-07T16:27:22+02:00
+date: 2024-05-06T16:27:22+02:00
+lastmod: 2024-05-06T16:27:22+02:00
 draft: false
 weight: 50
 categories: []
