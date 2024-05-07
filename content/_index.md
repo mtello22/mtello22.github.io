@@ -12,6 +12,9 @@ seo:
   noindex: false # false (default) or true
 ---
 
+
+
+# Resume
 **Bioinformatician | Data Scientist**
 
 [mtello@student.ubc.ca](mailto:mtello@student.ubc.ca) | [LinkedIn](https://linkedin.com/in/marco-tello-palencia) | [GitHub](https://github.com/mtello22)
