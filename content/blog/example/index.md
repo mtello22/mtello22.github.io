@@ -1,7 +1,7 @@
 ---
-title: "Example Post"
+title: "Ortholog cell-type deconvolution"
 description: "Just an example post."
-summary: "You can use blog posts for announcing product updates and features."
+summary: "Article to explain the logic and reasoning behind the method of ortholog-based cell-type deconvolution"
 date: 2023-09-07T16:27:22+02:00
 lastmod: 2023-09-07T16:27:22+02:00
 draft: false
@@ -18,8 +18,10 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Well-thought-through product announcements will help increase feature awareness and engage users with new functionality. Just like [sharing your public roadmap](https://canny.io/blog/should-you-have-a-public-roadmap/), it's also a great way to let potential customers see that you're constantly improving.
+ # Cell-type deconvolution
 
-## Further reading
+In technical terms, this is a tool to estimate the proportion of multiple cell types in a complex tissue.
 
-- Read [How to announce product updates and features](https://canny.io/blog/announce-product-updates-features/)
+An analogy for this problem, it is similar to analyzing forensic evidence in a crime scene such as fingerprints. Lets assume a robbery happens in a house. If we look at all the fingerprints identified in every surface of the house, the majority of evidence would belong to the people who lives in the house. However, a small fraction of those fingerprints will belong to the thief/thieves, friends, family or even some careless investigator that forgot to put gloves before poking around. Then, the nex wueation would be: how can we identify which fingerprints belong to who? We take each fingerprint found at the crime scene and we would compare them against a database that contains thousands of peoples' fingerprints. Using this matching method we will be able to assign an identity to each set of fingerprints.
+
+Cell-type deconvolution uses a similar idea of first defining the "fingerprints" of each cell type and then tries to determine
