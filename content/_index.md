@@ -11,3 +11,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+# How would it look to add stuff here?
+
+And like this?

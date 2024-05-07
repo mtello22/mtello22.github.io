@@ -17,3 +17,5 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+would it do anything to the blog page to add this text?
