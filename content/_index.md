@@ -1,7 +1,7 @@
 ---
-title: "Marco Tello-Palencia"
+title: "Marco Tello-Palencia, MSc"
 description: ""
-lead: "Bioinformatics portfolio"
+lead: "My bioinformatics portfolio"
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false
@@ -11,8 +11,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
-# Marco Tello-Palencia, MSc
 
 **Bioinformatician | Data Scientist**
 
