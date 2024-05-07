@@ -1,7 +1,7 @@
 ---
 title: "Marco Tello-Palencia, MSc"
 description: ""
-lead: "My bioinformatics portfolio"
+lead: ""
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false
@@ -12,9 +12,6 @@ seo:
   noindex: false # false (default) or true
 ---
 
-
-
-# Resume
 **Bioinformatician | Data Scientist**
 
 [mtello@student.ubc.ca](mailto:mtello@student.ubc.ca) | [LinkedIn](https://linkedin.com/in/marco-tello-palencia) | [GitHub](https://github.com/mtello22)
