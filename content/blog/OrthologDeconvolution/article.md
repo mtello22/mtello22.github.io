@@ -1,13 +1,13 @@
 ---
-title: "Does it need to be named index?"
-description: "Article to explore the logic of this nonsense"
+title: "Ortholog cell-type deconvolution"
+description: "Article to explain the logic and reasoning behind the method of ortholog-based cell-type deconvolution"
 summary: ""
 date: 2024-05-06T16:27:22+02:00
 lastmod: 2024-05-06T16:27:22+02:00
 draft: false
 weight: 50
 categories: []
-tags: []
+tags: [post]
 contributors: []
 pinned: false
 homepage: false
