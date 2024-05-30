@@ -15,6 +15,7 @@ seo:
 <div style="text-align: center;">
   <img src="/images/marcotello_profile_picture.png" alt="Marco Tello-Palencia" style="width: 300px; height: 300px; border-radius: 50%;">
 </div>
+
 [mtello@student.ubc.ca](mailto:mtello@student.ubc.ca) | [LinkedIn](https://linkedin.com/in/marco-tello-palencia) | [GitHub](https://github.com/mtello22)
 
 ## PROFESSIONAL SUMMARY
@@ -62,22 +63,22 @@ Identification of epigenetic signatures during human adipocyte differentiation.
 
 ### Research Assistant – Freyre Lab, UNAM
 Feb 2017 – Dec 2018
-De novo inference of gene regulatory network for Neurospora crassa.
-- Implemented ensemble approach to integrate 3 different inferred regulatory networks for S. cerevisiae and N. crassa based on 50+ public transcriptomic datasets.
+*De novo* inference of gene regulatory network for *Neurospora crassa*.
+- Implemented ensemble approach to integrate 3 different inferred regulatory networks for *S. cerevisiae* and *N. crassa* based on 50+ public transcriptomic datasets.
 - Identified biological functions associated with subnetworks controlled by circadian regulators.
 
 ## TEACHING AND MENTORING EXPERIENCE
 - **Mentor URO-REX Program (6 mentees) – Korthauer Lab, UBC**
-  - Oct 2021 – Apr 2022
+  Oct 2021 – Apr 2022
   - Managed team to formulate, perform, and communicate results from a bioinformatics research project.
 - **TA STAT540: Statistical Methods for High-Dimensional Biology – UBC**
-  - Jan 2021 – Apr 2022
+  Jan 2021 – Apr 2022
   - Updated and imparted bi-weekly tutorials on specific bioinformatic pipelines and tools.
 - **Mentor Systems Biology Workshop (11 mentees) – Freyre Lab, UNAM**
-  - Jun 2017 – Nov 2018
+  Jun 2017 – Nov 2018
   - Benchmark of methods for the inference of gene regulatory networks. (Published)
 - **TA Programming Principles and Scientific Computation – UNAM**
-  - Jun 2017 – Nov 2018
+  Jun 2017 – Nov 2018
   - Developed exercises and activities to teach algorithm design to first-year undergraduate students.
 
 ## EDUCATION
