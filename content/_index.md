@@ -12,6 +12,9 @@ seo:
   noindex: false # false (default) or true
 ---
 
+<div style="text-align: center;">
+  <img src="/images/marcotello_profile_picture.png" alt="Marco Tello-Palencia" style="width: 150px; height: 150px; border-radius: 50%;">
+</div>
 [mtello@student.ubc.ca](mailto:mtello@student.ubc.ca) | [LinkedIn](https://linkedin.com/in/marco-tello-palencia) | [GitHub](https://github.com/mtello22)
 
 ## PROFESSIONAL SUMMARY
