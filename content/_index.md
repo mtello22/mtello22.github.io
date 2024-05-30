@@ -22,17 +22,32 @@ seo:
 Bioinformatician with 6 years of experience in analyzing genomic, transcriptomic, and methylome datasets. Looking for an opportunity to continue developing machine learning models to extract biological insights from multi-omic datasets.
 
 ## SKILLS
-- **Programming:** Python, R, mySQL, bash.
-- **Bioinformatic Pipelines:**
-  - Quality Control of Sequencing data
-  - Differential Expression and Methylation
-  - Gene Set Enrichment Analysis
-  - Gene Regulatory Network Inference
-  - Single-cell RNA-seq
-- **Machine Learning:** scikit-learn, SHAP value analysis.
-- **High-performance Computing:** PBS, NextFlow.
-- **Report and Documentation:** GitHub, R-markdown, Jupyter-notebook.
-- **Visualization:** ggplot2, R-Shiny apps, Tableau.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1; padding: 10px;">
+    <ul>
+      <li><strong>Programming:</strong> Python, R, mySQL, bash.</li>
+      <li><strong>Machine Learning:</strong> scikit-learn, SHAP value analysis.</li>
+      <li><strong>Report and Documentation:</strong> GitHub, R-markdown, Jupyter-notebook.</li>
+      <li><strong>High-performance Computing:</strong> PBS, NextFlow.</li>
+      <li><strong>Visualization:</strong> ggplot2, R-Shiny apps, Tableau.</li>
+    </ul>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <ul>
+      <li><strong>Bioinformatic Pipelines:</strong>
+        <ul>
+          <li>Quality Control of Sequencing Data</li>
+          <li>Differential Expression using RNA-seq</li>
+          <li>Analysis of Whole Genome Bisulfite Sequencing</li>
+          <li>Gene Set Enrichment Analysis</li>
+          <li>Gene Regulatory Network Inference</li>
+          <li>Single-cell RNA-seq</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
 ## EXPERIENCE
 
@@ -49,13 +64,6 @@ Prediction of gene expression associated with healthy cell type differences.
 - Designed supervised learning models to regress gene expression by integrating multi-omic datasets.
 - Improved model interpretability to discover DNA methylation as the primary predictor of gene expression among 400 features in the trained models.
 - Designed strategies for training and evaluation of multiple supervised regression models.
-
-<div style="text-align: center;">
-  <img src="/images/VMR/VMRvsPromoter_Spearman.png" alt="VMR vs Promoter performance">
-</div>
-
-
-
 
 ### Bioinformatician – Stefanska Lab, UBC
 Jun 2021 – Aug 2021; Feb 2024 – Current
