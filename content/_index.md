@@ -50,7 +50,12 @@ Prediction of gene expression associated with healthy cell type differences.
 - Improved model interpretability to discover DNA methylation as the primary predictor of gene expression among 400 features in the trained models.
 - Designed strategies for training and evaluation of multiple supervised regression models.
 
-![VMR vs Promoter performance](/images/VMR/VMRvsPromoter_Spearman.png)
+<div style="text-align: center;">
+  <img src="/images/VMR/VMRvsPromoter_Spearman.png" alt="VMR vs Promoter performance">
+</div>
+
+
+
 
 ### Bioinformatician – Stefanska Lab, UBC
 Jun 2021 – Aug 2021; Feb 2024 – Current
