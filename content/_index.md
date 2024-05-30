@@ -50,10 +50,14 @@ Prediction of gene expression associated with healthy cell type differences.
 - Improved model interpretability to discover DNA methylation as the primary predictor of gene expression among 400 features in the trained models.
 - Designed strategies for training and evaluation of multiple supervised regression models.
 
+<div style="text-align: center;">
+  ![VMR vs Promoter performance](/images/VMR/VMRvsPromoter_Spearman.png)
+</div>
+
 ### Bioinformatician – Stefanska Lab, UBC
 Jun 2021 – Aug 2021; Feb 2024 – Current
 [GitHub Repo](https://github.com/your_repo)
-Analysis of transcriptomic differences in blood for rats with different supplemented diets (Manuscript in preparation).
+Analysis of transcriptomic differences in blood for rats with different  supplemented diets (Manuscript in preparation).
 - Implemented new protocols for bioinformatic analysis, resulting in the identification of 30+ differentially expressed genes.
 
 ### Bioinformatician – Deplancke Lab, EPFL
@@ -82,14 +86,18 @@ Feb 2017 – Dec 2018
   - Developed exercises and activities to teach algorithm design to first-year undergraduate students.
 
 ## EDUCATION
-- **MSc in Bioinformatics, University of British Columbia**
-  - Feb 2024
-- **BSc in Genomic Sciences, Universidad Nacional Autónoma de México**
-  - May 2018
+**MSc in Bioinformatics, University of British Columbia**
+Feb 2024
+
+**BSc in Genomic Sciences, Universidad Nacional Autónoma de México**
+May 2018
 
 ## PUBLICATION AND COMPETITIVE SCHOLARSHIPS
-- Escorcia-Rodríguez, J. M., Gaytan-Nuñez, E., Hernandez-Benitez, E. M., Zorro-Aranda, A., Tello-Palencia, M.A., & Freyre-González, J. A. (2023). Improving gene regulatory network inference and assessment: The importance of using network structure. Frontiers in Genetics, 14, 143382.
-- **BC Research Institute for Children's and Women's Health Graduate Studentship**
-  - Sept 2021 – Aug 2022
-- **NSERC-CREATE Scholarship Awardee**
-  - Sept 2020 – Aug 2021
+
+Escorcia-Rodríguez, J. M., Gaytan-Nuñez, E., Hernandez-Benitez, E. M., Zorro-Aranda, A., **Tello-Palencia, M.A.**, & Freyre-González, J. A. (2023). Improving gene regulatory network inference and assessment: The importance of using network structure. Frontiers in Genetics, 14, 143382.
+
+**BC Research Institute for Children's and Women's Health Graduate Studentship**
+Sept 2021 – Aug 2022
+
+**NSERC-CREATE Scholarship Awardee**
+Sept 2020 – Aug 2021
